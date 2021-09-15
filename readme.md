@@ -5,3 +5,4 @@
 -   🎓 Perfectionist
 -   👨‍💻 Solve untrivial tasks
 -   👷 Lead developer
+-   👨‍ Interested in developing Products/Startups
