@@ -1,7 +1,7 @@
 # Hey, let me introduce myself to you!
 
 -   ⬢ Architecture Designing
--   🔭 Researching difficult stuffs
+-   🔭 Researching difficult things
 -   🎓 Perfectionist
 -   👨‍💻 Solve untrivial tasks
 -   👷 Lead developer
