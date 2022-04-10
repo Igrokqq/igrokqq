@@ -1,4 +1,4 @@
-# Hey, let me introduce myself to you!
+# Hey.
 
 -   ⬢ Architecture Designing
 -   🔭 Researching difficult things
